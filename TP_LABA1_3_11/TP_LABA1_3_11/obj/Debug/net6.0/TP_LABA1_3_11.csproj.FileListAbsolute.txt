@@ -1,0 +1,14 @@
+G:\Desktop\TP_LABA1_3_11\TP_LABA1_3_11\bin\Debug\net6.0\TP_LABA1_3_11.exe
+G:\Desktop\TP_LABA1_3_11\TP_LABA1_3_11\bin\Debug\net6.0\TP_LABA1_3_11.deps.json
+G:\Desktop\TP_LABA1_3_11\TP_LABA1_3_11\bin\Debug\net6.0\TP_LABA1_3_11.runtimeconfig.json
+G:\Desktop\TP_LABA1_3_11\TP_LABA1_3_11\bin\Debug\net6.0\TP_LABA1_3_11.dll
+G:\Desktop\TP_LABA1_3_11\TP_LABA1_3_11\bin\Debug\net6.0\TP_LABA1_3_11.pdb
+G:\Desktop\TP_LABA1_3_11\TP_LABA1_3_11\obj\Debug\net6.0\TP_LABA1_3_11.GeneratedMSBuildEditorConfig.editorconfig
+G:\Desktop\TP_LABA1_3_11\TP_LABA1_3_11\obj\Debug\net6.0\TP_LABA1_3_11.AssemblyInfoInputs.cache
+G:\Desktop\TP_LABA1_3_11\TP_LABA1_3_11\obj\Debug\net6.0\TP_LABA1_3_11.AssemblyInfo.cs
+G:\Desktop\TP_LABA1_3_11\TP_LABA1_3_11\obj\Debug\net6.0\TP_LABA1_3_11.csproj.CoreCompileInputs.cache
+G:\Desktop\TP_LABA1_3_11\TP_LABA1_3_11\obj\Debug\net6.0\TP_LABA1_3_11.dll
+G:\Desktop\TP_LABA1_3_11\TP_LABA1_3_11\obj\Debug\net6.0\refint\TP_LABA1_3_11.dll
+G:\Desktop\TP_LABA1_3_11\TP_LABA1_3_11\obj\Debug\net6.0\TP_LABA1_3_11.pdb
+G:\Desktop\TP_LABA1_3_11\TP_LABA1_3_11\obj\Debug\net6.0\TP_LABA1_3_11.genruntimeconfig.cache
+G:\Desktop\TP_LABA1_3_11\TP_LABA1_3_11\obj\Debug\net6.0\ref\TP_LABA1_3_11.dll
