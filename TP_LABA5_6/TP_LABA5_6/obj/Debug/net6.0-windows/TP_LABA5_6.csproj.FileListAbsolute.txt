@@ -1,0 +1,34 @@
+C:\Users\stud\Desktop\TP_LABA5_6\TP_LABA5_6\obj\Debug\net6.0-windows\TP_LABA5_6.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\TP_LABA5_6\TP_LABA5_6\obj\Debug\net6.0-windows\TP_LABA5_6.Form1.resources
+C:\Users\stud\Desktop\TP_LABA5_6\TP_LABA5_6\obj\Debug\net6.0-windows\TP_LABA5_6.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\TP_LABA5_6\TP_LABA5_6\obj\Debug\net6.0-windows\TP_LABA5_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\TP_LABA5_6\TP_LABA5_6\obj\Debug\net6.0-windows\TP_LABA5_6.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\TP_LABA5_6\TP_LABA5_6\obj\Debug\net6.0-windows\TP_LABA5_6.AssemblyInfo.cs
+C:\Users\stud\Desktop\TP_LABA5_6\TP_LABA5_6\obj\Debug\net6.0-windows\TP_LABA5_6.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\TP_LABA5_6\TP_LABA5_6\bin\Debug\net6.0-windows\TP_LABA5_6.exe
+C:\Users\stud\Desktop\TP_LABA5_6\TP_LABA5_6\bin\Debug\net6.0-windows\TP_LABA5_6.deps.json
+C:\Users\stud\Desktop\TP_LABA5_6\TP_LABA5_6\bin\Debug\net6.0-windows\TP_LABA5_6.runtimeconfig.json
+C:\Users\stud\Desktop\TP_LABA5_6\TP_LABA5_6\bin\Debug\net6.0-windows\TP_LABA5_6.dll
+C:\Users\stud\Desktop\TP_LABA5_6\TP_LABA5_6\bin\Debug\net6.0-windows\TP_LABA5_6.pdb
+C:\Users\stud\Desktop\TP_LABA5_6\TP_LABA5_6\obj\Debug\net6.0-windows\TP_LABA5_6.dll
+C:\Users\stud\Desktop\TP_LABA5_6\TP_LABA5_6\obj\Debug\net6.0-windows\refint\TP_LABA5_6.dll
+C:\Users\stud\Desktop\TP_LABA5_6\TP_LABA5_6\obj\Debug\net6.0-windows\TP_LABA5_6.pdb
+C:\Users\stud\Desktop\TP_LABA5_6\TP_LABA5_6\obj\Debug\net6.0-windows\TP_LABA5_6.genruntimeconfig.cache
+C:\Users\stud\Desktop\TP_LABA5_6\TP_LABA5_6\obj\Debug\net6.0-windows\ref\TP_LABA5_6.dll
+E:\Технологии программирования\TP_LABA5_6\TP_LABA5_6\bin\Debug\net6.0-windows\TP_LABA5_6.exe
+E:\Технологии программирования\TP_LABA5_6\TP_LABA5_6\bin\Debug\net6.0-windows\TP_LABA5_6.deps.json
+E:\Технологии программирования\TP_LABA5_6\TP_LABA5_6\bin\Debug\net6.0-windows\TP_LABA5_6.runtimeconfig.json
+E:\Технологии программирования\TP_LABA5_6\TP_LABA5_6\bin\Debug\net6.0-windows\TP_LABA5_6.dll
+E:\Технологии программирования\TP_LABA5_6\TP_LABA5_6\bin\Debug\net6.0-windows\TP_LABA5_6.pdb
+E:\Технологии программирования\TP_LABA5_6\TP_LABA5_6\obj\Debug\net6.0-windows\TP_LABA5_6.csproj.AssemblyReference.cache
+E:\Технологии программирования\TP_LABA5_6\TP_LABA5_6\obj\Debug\net6.0-windows\TP_LABA5_6.Form1.resources
+E:\Технологии программирования\TP_LABA5_6\TP_LABA5_6\obj\Debug\net6.0-windows\TP_LABA5_6.csproj.GenerateResource.cache
+E:\Технологии программирования\TP_LABA5_6\TP_LABA5_6\obj\Debug\net6.0-windows\TP_LABA5_6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Технологии программирования\TP_LABA5_6\TP_LABA5_6\obj\Debug\net6.0-windows\TP_LABA5_6.AssemblyInfoInputs.cache
+E:\Технологии программирования\TP_LABA5_6\TP_LABA5_6\obj\Debug\net6.0-windows\TP_LABA5_6.AssemblyInfo.cs
+E:\Технологии программирования\TP_LABA5_6\TP_LABA5_6\obj\Debug\net6.0-windows\TP_LABA5_6.csproj.CoreCompileInputs.cache
+E:\Технологии программирования\TP_LABA5_6\TP_LABA5_6\obj\Debug\net6.0-windows\TP_LABA5_6.dll
+E:\Технологии программирования\TP_LABA5_6\TP_LABA5_6\obj\Debug\net6.0-windows\refint\TP_LABA5_6.dll
+E:\Технологии программирования\TP_LABA5_6\TP_LABA5_6\obj\Debug\net6.0-windows\TP_LABA5_6.pdb
+E:\Технологии программирования\TP_LABA5_6\TP_LABA5_6\obj\Debug\net6.0-windows\TP_LABA5_6.genruntimeconfig.cache
+E:\Технологии программирования\TP_LABA5_6\TP_LABA5_6\obj\Debug\net6.0-windows\ref\TP_LABA5_6.dll
